@@ -13,3 +13,11 @@ take ourselves seriously? ❌
 try new technology? ✅
 collab with new people? ✅
 dip my toe into tech-art? ✅
+
+## sound libraries 
+https://github.com/Tonejs/Tone.js
+https://github.com/alemangui/pizzicato
+
+### current challenges
+- [ ] how to generate and save audio files?
+  - the libs use a web audio api that doesnt seem to have a polyfill on node, maybeeee https://github.com/audiojs/web-audio-api
